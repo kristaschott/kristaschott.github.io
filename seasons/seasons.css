@@ -1,0 +1,235 @@
+body {
+    background-color: #ddd;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, sans-serif;
+}
+
+#wrap {
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+
+#index header {
+    background-color: #52596b;
+}
+
+#index header img {
+    width: 100%;
+}
+
+nav {
+    background-color: #52596b;
+    padding: 20px;
+    text-align: center;
+}
+
+#index nav a {
+    color: white;
+    font-family: Verdana, sans-serif;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 120%;
+}
+
+#index nav a:hover {
+    background-color: whitesmoke;
+    color: #52596b;
+}
+
+nav li {
+    display: inline;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding: 1% 4%;
+    overflow: auto;
+}
+
+.montana {
+    padding: 1% 4%;
+    overflow: auto;
+}
+
+#index section h1 {
+    color: darkolivegreen;
+    font-family: Verdana;
+    font-size: 180%;
+}
+
+
+footer {
+    background-color: #52596b;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+
+#spring nav,
+#spring footer {
+    background-color: #fa7756;
+}
+
+#summer nav,
+#summer footer {
+    background-color: #fbb619;
+}
+
+#autumn nav,
+#autumn footer {
+    background-color: #b86d08;
+}
+
+#winter nav,
+#winter footer {
+    background-color: #a9bfca;
+}
+
+figure {
+    background-color: #52596b;
+    padding: 10px;
+    margin: 2.5%;
+    width: 170px;
+    float: left;
+
+}
+
+figure img {
+    width: 100%;
+}
+
+.horse {
+    width: 30%;
+    float: right;
+}
+
+#spring header img {
+    width: 100%;
+}
+
+#spring header {
+    background-color: #fa7756;
+}
+
+#spring nav a {
+    color: white;
+    font-family: Verdana, sans-serif;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 120%;
+}
+
+#spring nav a:hover {
+    background-color: whitesmoke;
+    color: #fa7756;
+}
+
+#spring section h1 {
+    color: #76b04a;
+    font-family: Verdana;
+    font-size: 180%;
+}
+
+#summer header img {
+    width: 100%;
+}
+
+#summer header {
+    background-color: #fbb619;
+}
+
+#summer nav a {
+    color: white;
+    font-family: Verdana, sans-serif;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 120%;
+}
+
+#summer nav a:hover {
+    background-color: whitesmoke;
+    color: #fbb619;
+}
+
+#summer section h1 {
+    color: #e44331;
+    font-family: Verdana;
+    font-size: 180%;
+}
+
+.summer {
+    width: 30%;
+    float: right;
+}
+
+#autumn header img {
+    width: 100%;
+}
+
+#autumn header {
+    background-color: #b86d08;
+}
+
+#autumn nav a {
+    color: white;
+    font-family: Verdana, sans-serif;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 120%;
+}
+
+#autumn nav a:hover {
+    background-color: whitesmoke;
+    color: #b86d08;
+}
+
+#autumn section h1 {
+    color: #f08609;
+    font-family: Verdana;
+    font-size: 180%;
+}
+
+.orange {
+    width: 30%;
+    float: right;
+}
+
+#winter header img {
+    width: 100%;
+}
+
+#winter header {
+    background-color: #a9bfca;
+}
+
+#winter nav a {
+    color: white;
+    font-family: Verdana, sans-serif;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 120%;
+}
+
+#winter nav a:hover {
+    background-color: whitesmoke;
+    color: #a9bfca;
+}
+
+#winter section h1 {
+    color: #75888f;
+    font-family: Verdana;
+    font-size: 180%;
+}
+
+.ski {
+    width: 30%;
+    float: right;
+}
