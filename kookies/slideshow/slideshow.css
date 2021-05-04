@@ -1,0 +1,11 @@
+body slider-wrapper theme-default {
+    margin: 10;
+    padding: 0;
+    background-color: #ddd;
+}
+
+#wrap .slider-wrapper theme-default {
+    margin: 0 auto;
+    width: 50%;
+    background-color: white;
+}
